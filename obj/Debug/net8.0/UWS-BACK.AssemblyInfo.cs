@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UWS-BACK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c51f9a74588214e6f3a855cef57580ee312c1a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95347e9e4ce95df32576f0b5cf5d0fcfc1c26c68")]
 [assembly: System.Reflection.AssemblyProductAttribute("UWS-BACK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UWS-BACK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
